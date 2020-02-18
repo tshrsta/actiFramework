@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76109" started-at="2020-02-17T21:41:42Z" finished-at="2020-02-17T21:42:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76109" started-at="2020-02-17T21:41:42Z" finished-at="2020-02-17T21:42:59Z">
+      <class name="com.acti.Testcases.TC01_login">
+        <test-method status="PASS" signature="preTest()[pri:0, instance:com.acti.Testcases.TC01_login@3bfdc050]" name="preTest" is-config="true" duration-ms="39838" started-at="2020-02-17T16:41:43Z" finished-at="2020-02-17T16:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="testVerifyTitle()[pri:1, instance:com.acti.Testcases.TC01_login@3bfdc050]" name="testVerifyTitle" duration-ms="23" started-at="2020-02-17T16:42:22Z" finished-at="2020-02-17T16:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyTitle -->
+        <test-method status="PASS" signature="postTest()[pri:0, instance:com.acti.Testcases.TC01_login@3bfdc050]" name="postTest" is-config="true" duration-ms="790" started-at="2020-02-17T16:42:22Z" finished-at="2020-02-17T16:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:com.acti.Testcases.TC01_login@3bfdc050]" name="preTest" is-config="true" duration-ms="12365" started-at="2020-02-17T16:42:23Z" finished-at="2020-02-17T16:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="testVerifyLogoDisplayed()[pri:2, instance:com.acti.Testcases.TC01_login@3bfdc050]" name="testVerifyLogoDisplayed" duration-ms="916" started-at="2020-02-17T16:42:36Z" finished-at="2020-02-17T16:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyLogoDisplayed -->
+        <test-method status="PASS" signature="postTest()[pri:0, instance:com.acti.Testcases.TC01_login@3bfdc050]" name="postTest" is-config="true" duration-ms="172" started-at="2020-02-17T16:42:36Z" finished-at="2020-02-17T16:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:com.acti.Testcases.TC01_login@3bfdc050]" name="preTest" is-config="true" duration-ms="17972" started-at="2020-02-17T16:42:37Z" finished-at="2020-02-17T16:42:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="testValidateLoginFunction()[pri:3, instance:com.acti.Testcases.TC01_login@3bfdc050]" name="testValidateLoginFunction" duration-ms="3856" started-at="2020-02-17T16:42:55Z" finished-at="2020-02-17T16:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidateLoginFunction -->
+        <test-method status="PASS" signature="postTest()[pri:0, instance:com.acti.Testcases.TC01_login@3bfdc050]" name="postTest" is-config="true" duration-ms="119" started-at="2020-02-17T16:42:58Z" finished-at="2020-02-17T16:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+      </class> <!-- com.acti.Testcases.TC01_login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
