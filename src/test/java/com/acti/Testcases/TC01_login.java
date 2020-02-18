@@ -7,6 +7,9 @@ import org.testng.annotations.Test;
 import com.acti.Base.DriverScript;
 import com.acti.Pages.LoginPage;
 
+
+//prepared by Tripti
+
 public class TC01_login extends DriverScript
 {
 	
